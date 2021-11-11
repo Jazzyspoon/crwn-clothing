@@ -1,0 +1,11 @@
+.signin-and-signup-page {
+  width: 850px;
+  margin: 30px auto;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+/*# sourceMappingURL=signin-and-signup-page.styles.css.map */
