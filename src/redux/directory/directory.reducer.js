@@ -4,21 +4,21 @@ const INITIAL_STATE = {
       title: "hats",
       imageUrl:
         "https://www.insidehook.com/wp-content/uploads/2021/03/hats.jpg?fit=1200%2C800",
-      id: 1,
-      linkUrl: "hats",
+      id: 100,
+      linkUrl: "shop/hats",
     },
     {
       title: "jackets",
       imageUrl:
         "https://www.insidehook.com/wp-content/uploads/2021/10/Jacket-Feature.jpg?fit=1200%2C800",
-      id: 2,
+      id: 200,
       linkUrl: "shop/jackets",
     },
     {
       title: "sneakers",
       imageUrl:
         "https://static.highsnobiety.com/thumbor/UP8gnQkV3QUwSBeAN7OacDRICto=/1000x600/static.highsnobiety.com/wp-content/uploads/2018/01/16122920/Sneaker-Feature-.jpg",
-      id: 3,
+      id: 300,
       linkUrl: "shop/sneakers",
     },
     {
@@ -26,7 +26,7 @@ const INITIAL_STATE = {
       imageUrl:
         "http://www.contemporist.com/wp-content/uploads/2017/01/modern-womens-fashion-160117-356-01-800x410.jpg",
       size: "large",
-      id: 4,
+      id: 400,
       linkUrl: "shop/womens",
     },
     {
@@ -34,7 +34,7 @@ const INITIAL_STATE = {
       imageUrl:
         "https://images.indianexpress.com/2018/01/men-fashion-759-filephoto.jpg",
       size: "large",
-      id: 5,
+      id: 500,
       linkUrl: "shop/mens",
     },
   ],
